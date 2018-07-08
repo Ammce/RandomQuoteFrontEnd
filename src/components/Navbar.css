@@ -1,0 +1,7 @@
+.nav-wrapper{
+    background-color: #26a69a !important;
+}
+.navBarActive{
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.1);
+}
